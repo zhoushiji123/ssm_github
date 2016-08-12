@@ -33,6 +33,12 @@
   <dependencies>
 
     <dependency>
+      <groupId>com.drore.cloud</groupId>
+      <artifactId>cloud-sdk</artifactId>
+      <version>0.4.6</version>
+    </dependency>
+
+    <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
