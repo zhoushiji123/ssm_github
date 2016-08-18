@@ -5,6 +5,12 @@
 
 
 <configuration>
+    <typeAliases>
+        <typeAlias type="com.zsj.entity.User" alias="User"></typeAlias>
+    </typeAliases>
 
+    <mappers>
+        <mapper class="com.zsj.mappers.UserMapper"></mapper>
+    </mappers>
 
 </configuration>
